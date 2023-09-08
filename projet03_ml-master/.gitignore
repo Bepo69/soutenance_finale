@@ -1,0 +1,8 @@
+.venv
+.env
+.env-deploy
+access.txt
+test.py
+brouillon_ml.py
+__pycache__
+.idea
